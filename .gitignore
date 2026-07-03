@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Personal state / trade logs / runtime (never commit)
+*_state.json
+dca_state.json
+buyhold_state.json
+*_trade_log.csv
+dca_trade_log.csv
+buyhold_trade_log.csv
+*cron*.log
+*.bak
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
