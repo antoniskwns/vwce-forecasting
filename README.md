@@ -1,5 +1,9 @@
 # VWCE Forecasting, Portfolio Analysis & Automated DCA
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Topic](https://img.shields.io/badge/topic-Monte%20Carlo%20%C2%B7%20GARCH%20%C2%B7%20IBKR-lightgrey)
+
 A self-directed quantitative project around long-horizon, low-cost ETF investing. It has
 two parts: a **research/forecasting study** of a global-equity buy-and-hold portfolio,
 and a set of **automated execution scripts** that run a monthly DCA plan and a separate
