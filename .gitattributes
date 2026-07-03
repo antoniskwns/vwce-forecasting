@@ -1,0 +1,3 @@
+# Characterise the repo by its Python execution code rather than the large
+# notebook (which mostly holds embedded result figures).
+*.ipynb linguist-documentation
