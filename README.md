@@ -10,6 +10,8 @@ buy-and-hold sleeve through Interactive Brokers.
 > realistic return dynamics; the execution half automates the boring, error-prone part —
 > placing the trades — with safety rails so real money runs unattended.
 
+![Monte Carlo terminal-wealth fan chart: GJR-GARCH(1,2)-t + Merton jump-diffusion + Bayesian drift, 10,000 paths](v3_fig_fan_chart.png)
+
 ## Part 1 — Research & forecasting
 
 - **Return model:** per-asset GJR-GARCH(1,1) with Student-t innovations for volatility
